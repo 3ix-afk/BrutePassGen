@@ -19,8 +19,8 @@ print(Fore.WHITE + "+" + Fore.RED + " ###  ###  ###  ###  #      ###  # # # " + 
 print(Fore.WHITE + "+" + Fore.RED + " #    # #    #    #  #  ##  #    #  ## " + Fore.WHITE + "+")
 print(Fore.WHITE + "+" + Fore.RED + " #    # #  ###  ###   ###   ###  #   # " + Fore.WHITE + "+")
 print(                              "+---------------------------------------+")
-print(Fore.WHITE + "+" + Fore.YELLOW + " by 3ix                              " + Fore.WHITE + "+")
-print(Fore.WHITE + "+" + Fore.YELLOW + " V 1.0                               " + Fore.WHITE + "+")
+print(Fore.WHITE + "+" + Fore.YELLOW + " by 3ix                                " + Fore.WHITE + "+")
+print(Fore.WHITE + "+" + Fore.YELLOW + " V 1.0                                 " + Fore.WHITE + "+")
 print(                              "+---------------------------------------+")
 print("\n")
 
